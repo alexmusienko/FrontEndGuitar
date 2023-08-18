@@ -1,0 +1,449 @@
+@import "normalize.scss"
+@import "reset.scss"
+
+*
+    box-sizing: border-box
+
+@font-face
+    font-family: "Montserrat1"
+    src: url('../fonts/Montserrat-Light.ttf')
+    font-weight: 300
+    font-style: normal
+
+@font-face
+    font-family: "Montserrat1"
+    src: url('../fonts/Montserrat-Regular.ttf')
+    font-weight: 400
+    font-style: normal
+
+@font-face
+    font-family: "Montserrat1"
+    src: url('../fonts/Montserrat-SemiBold.ttf')
+    font-weight: bold
+    font-style: normal
+
+html
+    font-family: "Montserrat1"
+    font-weight: bold
+
+$color-blue: #5290EA
+$color-orange: #F28B64
+
+.container
+    max-width: 1140px
+    margin: 0 auto
+
+.main-section
+    position: relative
+    min-height: 800px
+    background: #F0F0F0
+    padding-top: 16px
+    overflow: hidden
+    &__nav-container
+        height: 69px
+        display: flex
+        flex-direction: row
+        justify-content: space-between
+        align-items: center
+    &__logo
+        width: 134px
+        height: 69px
+    &__content-container
+        display: flex
+        position: relative
+    &__first-ellipse
+        position: absolute
+        right: 80px
+        top: 123px
+    &__second-ellipse
+        position: absolute
+        right: -120px
+        top: 650px
+
+.nav-menu
+    &__list
+        display: flex
+        flex-direction: row
+    &__item
+        font-size: 18px
+        margin-right: 64px
+        &:last-child
+            margin-right: 0px
+        a
+            text-decoration: dashed
+            color: black
+
+.left-wrapper
+    position: relative
+    img
+        position: relative
+        z-index: 5
+    &__rectangle-blue
+        position: absolute
+        top: 150px
+        left: -50px
+        width: 565.949px
+        height: 220px
+        transform: rotate(-64.003deg)
+        border-radius: 100px
+        background: $color-blue
+        box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25)
+        z-index: 2
+    &__rectangle-orange
+        position: absolute
+        top: 160px
+        left: -30px
+        width: 618.428px
+        height: 220px
+        transform: rotate(-50.806deg)
+        border-radius: 100px
+        background: $color-orange
+        box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25)
+        z-index: 3
+    &__rectangle-grey
+        position: absolute
+        top: 190px
+        left: 10px
+        width: 608.968px
+        height: 220px
+        transform: rotate(-36.15deg)
+        border-radius: 100px
+        background: #E2E2E2
+        box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25)
+        z-index: 1
+
+.right-wrapper
+    width: 372px
+    position: absolute
+    top: 150px
+    right: 76px
+    z-index: 5
+    &__icons-box
+        margin-bottom: 1px
+        padding-left: 10px
+    &__title
+        margin-bottom: 5px
+    &__text
+        font-size: 16px
+        font-weight: 400
+        margin-bottom: 20px
+
+.icons
+    display: flex
+    gap: 17px
+    &__item
+        display: flex
+        justify-content: center
+        align-items: center
+        width: 40px
+        height: 40px
+        border: 1px solid $color-blue
+        border-radius: 100px
+        i
+            font-size: 21px
+
+.title
+    font-size: 72px
+    position: relative
+    &__hr
+        position: absolute
+        width: 65px
+        top: 65px
+        margin: 0
+        border: none
+        border-top: 1px solid black
+
+.buttons
+    display: inline-flex
+    &__main-btn
+        margin-right: 32px
+        width: 200px
+        height: 60px
+        border-radius: 100px
+        background: $color-orange
+        box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25)
+        border: none
+        font-size: 18px
+        color: white
+    &__icon-btn
+        display: inline-flex
+        align-items: center
+        img
+            margin-right: 12px
+    &__text
+        font-size: 16px
+        font-weight: 300
+
+.ellipse
+    width: 194px
+    height: 194px
+    background: linear-gradient(144deg, rgba(237, 123, 80, 0.50) 0%, rgba(72, 138, 234, 0.50) 54.17%, rgba(44, 44, 44, 0.50) 100%)
+    border-radius: 200px
+    display: flex
+    justify-content: center
+    align-items: center
+    &_big
+        width: 282px
+        height: 282px
+    &__subtract
+        width: 129.333px
+        height: 129.333px
+        border-radius: 129.333px
+        background: #F0F0F0
+        &_big
+            width: 188px
+            height: 188px
+        &_white
+            background: white
+
+.second-section
+    min-height: 700px
+    padding-top: 32px
+    overflow: hidden
+    background: white
+    &__container
+        position: relative
+    &__title
+        margin-bottom: 40px
+    &__cards-box
+        position: relative
+        display: flex
+        flex-direction: row
+        justify-content: space-between
+        margin-bottom: 25px
+        z-index: 1
+    &__icons-box
+        position: relative
+        display: flex
+        justify-content: space-evenly
+        z-index: 1
+    &__first-ellipse
+        position: absolute
+        top: 320px
+        left: -74px
+    &__second-ellipse
+        position: absolute
+        top: 20px
+        right: -54px
+
+.card-item
+    display: flex
+    align-items: flex-end
+    position: relative
+    width: 360px
+    height: 360px
+    background-color: #E2E2E2
+    border-radius: 10px
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25))
+    img
+        height: 335px
+    p
+        position: absolute
+        width: 280px
+        height: 90px
+        top: 135px
+        left: 125px
+        text-align: center
+        font-size: 36px
+        transform: rotate(90deg)
+    &_orange
+        background-color: $color-orange
+    &_blue
+        background-color: $color-blue
+
+.icon-item
+    display: inline-flex
+    align-items: center
+    img
+        width: 80px
+        height: 80px
+        margin-right: 20px
+    p
+        font-size: 18px
+        font-weight: 400
+        span
+            font-size: 48px
+
+.third-section
+    position: relative
+    min-height: 640px
+    background-color: #F0F0F0
+    padding-top: 46px
+    overflow: hidden
+    &__container
+        position: relative
+        display: flex
+        align-items: center
+    &__left-wrapper
+        padding-left: 167px
+        margin-right: 88px
+        z-index: 1
+    &__right-wrapper
+        z-index: 1
+    &__right-title
+        margin-bottom: 20px
+    &__text
+        margin-bottom: 30px
+        font-weight: 400
+    &__first-ellipse
+        position: absolute
+        top: 114px
+        left: 259px
+    &__second-ellipse
+        position: absolute
+        top: -130px
+        right: -120px
+    &__circle-subtract
+        position: absolute
+        top: 203px
+        left: 162px
+
+.footer
+    &__container
+        position: relative
+        min-height: 272px
+        display: flex
+        justify-content: flex-end
+        align-items: center
+    &__img
+        position: absolute
+        left: -380px
+        bottom: 0px
+    &__title
+        margin-bottom: 20px
+
+@media (max-width: 1199px)
+    .container
+        width: 960px
+    .main-section
+        min-height: 690px
+        &__first-ellipse
+            right: 10px
+        &__second-ellipse
+            top: 580px
+    .left-wrapper
+        img
+            width: 750px
+        &__rectangle-blue
+            width: 500px
+            height: 200px
+        &__rectangle-orange
+            width: 550px
+            height: 200px
+        &__rectangle-grey
+            width: 500px
+            height: 200px
+    .right-wrapper
+        right: 20px
+    .second-section
+        min-height: 600px
+    .card-item
+        width: 300px
+        height: 300px
+        img
+            height: 270px
+        p
+            top: 106px
+            left: 75px
+            font-size: 30px
+    .third-section
+        min-height: 560px
+        &__left-wrapper
+            padding-left: 60px
+            margin-right: 50px
+        &__first-ellipse
+            left: 147px
+        &__circle-subtract
+            left: 62px
+
+
+@media (max-width: 991px)
+    .container
+        width: 720px
+    .main-section
+        min-height: 530px
+        &__first-ellipse
+            right: -40px
+            top: 0px
+        &__second-ellipse
+            top: 430px       
+    .title
+        font-size: 48px
+        &__hr
+            top: 48px
+            width: 40px
+    .left-wrapper
+        img
+            width: 550px
+        &__rectangle-blue
+            width: 400px
+            height: 150px
+        &__rectangle-orange
+            width: 450px
+            height: 150px
+        &__rectangle-grey
+            width: 400px
+            height: 150px
+    .right-wrapper
+        top: 30px
+        right: 0px
+        width: 250px
+        &__text
+            margin-bottom: 20px
+    .buttons
+        display: flex
+        flex-wrap: wrap
+        justify-content: flex-end
+        gap: 10px
+        &__main-btn
+            font-size: 16px
+            width: 180px
+            margin-right: 0px
+        &__text
+            font-size: 14px
+    .card-item
+        width: 230px
+        height: 230px
+        img
+            height: 210px
+        p
+            top: 84px
+            left: 60px
+            font-size: 24px
+            width: 220px
+            height: 62px
+    .second-section
+        min-height: 590px
+        &__icons-box
+            flex-wrap: wrap
+            justify-content: space-between
+        &__first-ellipse
+            top: 350px
+            left: 0px
+    .icon-item
+        width: 290px
+        //margin-right: 50px
+        &:nth-child(2)
+            margin-right: 130px
+        &:nth-child(3)
+            margin-left: 130px
+        &:nth-child(4)
+            justify-content: flex-end
+            
+
+            
+
+
+
+
+
+
+
+@media (max-width: 767px)
+    .container
+        width: 540px
+
+@media (max-width: 575px)
+    .container
+        width: 100%
+
