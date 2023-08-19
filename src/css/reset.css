@@ -1,4 +1,4 @@
-/* line 1, C:/Dev/FrontEnd2023/Project-2/src/sass/reset.scss */
+/* line 1, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/reset.scss */
 html {
   margin: 0;
   padding: 0;
@@ -7,7 +7,7 @@ html {
   vertical-align: baseline;
 }
 
-/* line 8, C:/Dev/FrontEnd2023/Project-2/src/sass/reset.scss */
+/* line 8, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/reset.scss */
 body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -29,40 +29,40 @@ time, mark, audio, video {
   vertical-align: baseline;
 }
 
-/* line 28, C:/Dev/FrontEnd2023/Project-2/src/sass/reset.scss */
+/* line 28, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/reset.scss */
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
   display: block;
 }
 
-/* line 32, C:/Dev/FrontEnd2023/Project-2/src/sass/reset.scss */
+/* line 32, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/reset.scss */
 html {
   height: 100%;
 }
 
-/* line 35, C:/Dev/FrontEnd2023/Project-2/src/sass/reset.scss */
+/* line 35, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/reset.scss */
 body {
   line-height: 1;
 }
 
-/* line 38, C:/Dev/FrontEnd2023/Project-2/src/sass/reset.scss */
+/* line 38, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/reset.scss */
 ol, ul {
   list-style: none;
 }
 
-/* line 41, C:/Dev/FrontEnd2023/Project-2/src/sass/reset.scss */
+/* line 41, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/reset.scss */
 blockquote, q {
   quotes: none;
 }
 
-/* line 44, C:/Dev/FrontEnd2023/Project-2/src/sass/reset.scss */
+/* line 44, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/reset.scss */
 blockquote:before, blockquote:after,
 q:before, q:after {
   content: '';
   content: none;
 }
 
-/* line 49, C:/Dev/FrontEnd2023/Project-2/src/sass/reset.scss */
+/* line 49, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/reset.scss */
 table {
   border-collapse: collapse;
   border-spacing: 0;

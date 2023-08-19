@@ -5,7 +5,7 @@
  * 1. Correct the line height in all browsers.
  * 2. Prevent adjustments of font size after orientation changes in iOS.
  */
-/* line 11, C:/Dev/FrontEnd2023/Project-2/src/sass/normalize.scss */
+/* line 11, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/normalize.scss */
 html {
   line-height: 1.15;
   /* 1 */
@@ -18,7 +18,7 @@ html {
 /**
  * Remove the margin in all browsers.
  */
-/* line 23, C:/Dev/FrontEnd2023/Project-2/src/sass/normalize.scss */
+/* line 23, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/normalize.scss */
 body {
   margin: 0;
 }
@@ -26,7 +26,7 @@ body {
 /**
  * Render the `main` element consistently in IE.
  */
-/* line 31, C:/Dev/FrontEnd2023/Project-2/src/sass/normalize.scss */
+/* line 31, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/normalize.scss */
 main {
   display: block;
 }
@@ -35,7 +35,7 @@ main {
  * Correct the font size and margin on `h1` elements within `section` and
  * `article` contexts in Chrome, Firefox, and Safari.
  */
-/* line 40, C:/Dev/FrontEnd2023/Project-2/src/sass/normalize.scss */
+/* line 40, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/normalize.scss */
 h1 {
   font-size: 2em;
   margin: 0.67em 0;
@@ -47,7 +47,7 @@ h1 {
  * 1. Add the correct box sizing in Firefox.
  * 2. Show the overflow in Edge and IE.
  */
-/* line 53, C:/Dev/FrontEnd2023/Project-2/src/sass/normalize.scss */
+/* line 53, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/normalize.scss */
 hr {
   box-sizing: content-box;
   /* 1 */
@@ -61,7 +61,7 @@ hr {
  * 1. Correct the inheritance and scaling of font size in all browsers.
  * 2. Correct the odd `em` font sizing in all browsers.
  */
-/* line 64, C:/Dev/FrontEnd2023/Project-2/src/sass/normalize.scss */
+/* line 64, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/normalize.scss */
 pre {
   font-family: monospace, monospace;
   /* 1 */
@@ -74,7 +74,7 @@ pre {
 /**
  * Remove the gray background on active links in IE 10.
  */
-/* line 76, C:/Dev/FrontEnd2023/Project-2/src/sass/normalize.scss */
+/* line 76, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/normalize.scss */
 a {
   background-color: transparent;
 }
@@ -83,7 +83,7 @@ a {
  * 1. Remove the bottom border in Chrome 57-
  * 2. Add the correct text decoration in Chrome, Edge, IE, Opera, and Safari.
  */
-/* line 85, C:/Dev/FrontEnd2023/Project-2/src/sass/normalize.scss */
+/* line 85, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/normalize.scss */
 abbr[title] {
   border-bottom: none;
   /* 1 */
@@ -96,7 +96,7 @@ abbr[title] {
 /**
  * Add the correct font weight in Chrome, Edge, and Safari.
  */
-/* line 95, C:/Dev/FrontEnd2023/Project-2/src/sass/normalize.scss */
+/* line 95, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/normalize.scss */
 b,
 strong {
   font-weight: bolder;
@@ -106,7 +106,7 @@ strong {
  * 1. Correct the inheritance and scaling of font size in all browsers.
  * 2. Correct the odd `em` font sizing in all browsers.
  */
-/* line 105, C:/Dev/FrontEnd2023/Project-2/src/sass/normalize.scss */
+/* line 105, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/normalize.scss */
 code,
 kbd,
 samp {
@@ -119,7 +119,7 @@ samp {
 /**
  * Add the correct font size in all browsers.
  */
-/* line 116, C:/Dev/FrontEnd2023/Project-2/src/sass/normalize.scss */
+/* line 116, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/normalize.scss */
 small {
   font-size: 80%;
 }
@@ -128,7 +128,7 @@ small {
  * Prevent `sub` and `sup` elements from affecting the line height in
  * all browsers.
  */
-/* line 125, C:/Dev/FrontEnd2023/Project-2/src/sass/normalize.scss */
+/* line 125, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/normalize.scss */
 sub,
 sup {
   font-size: 75%;
@@ -137,12 +137,12 @@ sup {
   vertical-align: baseline;
 }
 
-/* line 133, C:/Dev/FrontEnd2023/Project-2/src/sass/normalize.scss */
+/* line 133, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/normalize.scss */
 sub {
   bottom: -0.25em;
 }
 
-/* line 137, C:/Dev/FrontEnd2023/Project-2/src/sass/normalize.scss */
+/* line 137, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/normalize.scss */
 sup {
   top: -0.5em;
 }
@@ -152,7 +152,7 @@ sup {
 /**
  * Remove the border on images inside links in IE 10.
  */
-/* line 148, C:/Dev/FrontEnd2023/Project-2/src/sass/normalize.scss */
+/* line 148, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/normalize.scss */
 img {
   border-style: none;
 }
@@ -163,7 +163,7 @@ img {
  * 1. Change the font styles in all browsers.
  * 2. Remove the margin in Firefox and Safari.
  */
-/* line 160, C:/Dev/FrontEnd2023/Project-2/src/sass/normalize.scss */
+/* line 160, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/normalize.scss */
 button,
 input,
 optgroup,
@@ -183,7 +183,7 @@ textarea {
  * Show the overflow in IE.
  * 1. Show the overflow in Edge.
  */
-/* line 176, C:/Dev/FrontEnd2023/Project-2/src/sass/normalize.scss */
+/* line 176, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/normalize.scss */
 button,
 input {
   /* 1 */
@@ -194,7 +194,7 @@ input {
  * Remove the inheritance of text transform in Edge, Firefox, and IE.
  * 1. Remove the inheritance of text transform in Firefox.
  */
-/* line 186, C:/Dev/FrontEnd2023/Project-2/src/sass/normalize.scss */
+/* line 186, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/normalize.scss */
 button,
 select {
   /* 1 */
@@ -204,7 +204,7 @@ select {
 /**
  * Correct the inability to style clickable types in iOS and Safari.
  */
-/* line 195, C:/Dev/FrontEnd2023/Project-2/src/sass/normalize.scss */
+/* line 195, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/normalize.scss */
 button,
 [type="button"],
 [type="reset"],
@@ -216,7 +216,7 @@ button,
 /**
  * Remove the inner border and padding in Firefox.
  */
-/* line 207, C:/Dev/FrontEnd2023/Project-2/src/sass/normalize.scss */
+/* line 207, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/normalize.scss */
 button::-moz-focus-inner,
 [type="button"]::-moz-focus-inner,
 [type="reset"]::-moz-focus-inner,
@@ -228,7 +228,7 @@ button::-moz-focus-inner,
 /**
  * Restore the focus styles unset by the previous rule.
  */
-/* line 219, C:/Dev/FrontEnd2023/Project-2/src/sass/normalize.scss */
+/* line 219, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/normalize.scss */
 button:-moz-focusring,
 [type="button"]:-moz-focusring,
 [type="reset"]:-moz-focusring,
@@ -239,7 +239,7 @@ button:-moz-focusring,
 /**
  * Correct the padding in Firefox.
  */
-/* line 230, C:/Dev/FrontEnd2023/Project-2/src/sass/normalize.scss */
+/* line 230, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/normalize.scss */
 fieldset {
   padding: 0.35em 0.75em 0.625em;
 }
@@ -250,7 +250,7 @@ fieldset {
  * 3. Remove the padding so developers are not caught out when they zero out
  *    `fieldset` elements in all browsers.
  */
-/* line 241, C:/Dev/FrontEnd2023/Project-2/src/sass/normalize.scss */
+/* line 241, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/normalize.scss */
 legend {
   box-sizing: border-box;
   /* 1 */
@@ -269,7 +269,7 @@ legend {
 /**
  * Add the correct vertical alignment in Chrome, Firefox, and Opera.
  */
-/* line 254, C:/Dev/FrontEnd2023/Project-2/src/sass/normalize.scss */
+/* line 254, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/normalize.scss */
 progress {
   vertical-align: baseline;
 }
@@ -277,7 +277,7 @@ progress {
 /**
  * Remove the default vertical scrollbar in IE 10+.
  */
-/* line 262, C:/Dev/FrontEnd2023/Project-2/src/sass/normalize.scss */
+/* line 262, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/normalize.scss */
 textarea {
   overflow: auto;
 }
@@ -286,7 +286,7 @@ textarea {
  * 1. Add the correct box sizing in IE 10.
  * 2. Remove the padding in IE 10.
  */
-/* line 271, C:/Dev/FrontEnd2023/Project-2/src/sass/normalize.scss */
+/* line 271, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/normalize.scss */
 [type="checkbox"],
 [type="radio"] {
   box-sizing: border-box;
@@ -298,7 +298,7 @@ textarea {
 /**
  * Correct the cursor style of increment and decrement buttons in Chrome.
  */
-/* line 281, C:/Dev/FrontEnd2023/Project-2/src/sass/normalize.scss */
+/* line 281, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/normalize.scss */
 [type="number"]::-webkit-inner-spin-button,
 [type="number"]::-webkit-outer-spin-button {
   height: auto;
@@ -308,7 +308,7 @@ textarea {
  * 1. Correct the odd appearance in Chrome and Safari.
  * 2. Correct the outline style in Safari.
  */
-/* line 291, C:/Dev/FrontEnd2023/Project-2/src/sass/normalize.scss */
+/* line 291, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/normalize.scss */
 [type="search"] {
   appearance: textfield;
   -webkit-appearance: textfield;
@@ -320,7 +320,7 @@ textarea {
 /**
  * Remove the inner padding in Chrome and Safari on macOS.
  */
-/* line 301, C:/Dev/FrontEnd2023/Project-2/src/sass/normalize.scss */
+/* line 301, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/normalize.scss */
 [type="search"]::-webkit-search-decoration {
   -webkit-appearance: none;
 }
@@ -329,7 +329,7 @@ textarea {
  * 1. Correct the inability to style clickable types in iOS and Safari.
  * 2. Change font properties to `inherit` in Safari.
  */
-/* line 310, C:/Dev/FrontEnd2023/Project-2/src/sass/normalize.scss */
+/* line 310, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/normalize.scss */
 ::-webkit-file-upload-button {
   -webkit-appearance: button;
   /* 1 */
@@ -342,7 +342,7 @@ textarea {
 /*
  * Add the correct display in Edge, IE 10+, and Firefox.
  */
-/* line 322, C:/Dev/FrontEnd2023/Project-2/src/sass/normalize.scss */
+/* line 322, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/normalize.scss */
 details {
   display: block;
 }
@@ -350,7 +350,7 @@ details {
 /*
  * Add the correct display in all browsers.
  */
-/* line 330, C:/Dev/FrontEnd2023/Project-2/src/sass/normalize.scss */
+/* line 330, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/normalize.scss */
 summary {
   display: list-item;
 }
@@ -360,7 +360,7 @@ summary {
 /**
  * Add the correct display in IE 10+.
  */
-/* line 341, C:/Dev/FrontEnd2023/Project-2/src/sass/normalize.scss */
+/* line 341, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/normalize.scss */
 template {
   display: none;
 }
@@ -368,12 +368,12 @@ template {
 /**
  * Add the correct display in IE 10.
  */
-/* line 349, C:/Dev/FrontEnd2023/Project-2/src/sass/normalize.scss */
+/* line 349, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/normalize.scss */
 [hidden] {
   display: none;
 }
 
-/* line 1, C:/Dev/FrontEnd2023/Project-2/src/sass/reset.scss */
+/* line 1, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/reset.scss */
 html {
   margin: 0;
   padding: 0;
@@ -382,7 +382,7 @@ html {
   vertical-align: baseline;
 }
 
-/* line 8, C:/Dev/FrontEnd2023/Project-2/src/sass/reset.scss */
+/* line 8, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/reset.scss */
 body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -404,46 +404,46 @@ time, mark, audio, video {
   vertical-align: baseline;
 }
 
-/* line 28, C:/Dev/FrontEnd2023/Project-2/src/sass/reset.scss */
+/* line 28, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/reset.scss */
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
   display: block;
 }
 
-/* line 32, C:/Dev/FrontEnd2023/Project-2/src/sass/reset.scss */
+/* line 32, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/reset.scss */
 html {
   height: 100%;
 }
 
-/* line 35, C:/Dev/FrontEnd2023/Project-2/src/sass/reset.scss */
+/* line 35, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/reset.scss */
 body {
   line-height: 1;
 }
 
-/* line 38, C:/Dev/FrontEnd2023/Project-2/src/sass/reset.scss */
+/* line 38, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/reset.scss */
 ol, ul {
   list-style: none;
 }
 
-/* line 41, C:/Dev/FrontEnd2023/Project-2/src/sass/reset.scss */
+/* line 41, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/reset.scss */
 blockquote, q {
   quotes: none;
 }
 
-/* line 44, C:/Dev/FrontEnd2023/Project-2/src/sass/reset.scss */
+/* line 44, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/reset.scss */
 blockquote:before, blockquote:after,
 q:before, q:after {
   content: '';
   content: none;
 }
 
-/* line 49, C:/Dev/FrontEnd2023/Project-2/src/sass/reset.scss */
+/* line 49, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/reset.scss */
 table {
   border-collapse: collapse;
   border-spacing: 0;
 }
 
-/* line 4, C:/Dev/FrontEnd2023/Project-2/src/sass/style.sass */
+/* line 4, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/style.sass */
 * {
   box-sizing: border-box;
 }
@@ -469,19 +469,19 @@ table {
   font-style: normal;
 }
 
-/* line 25, C:/Dev/FrontEnd2023/Project-2/src/sass/style.sass */
+/* line 25, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/style.sass */
 html {
   font-family: "Montserrat1";
   font-weight: bold;
 }
 
-/* line 32, C:/Dev/FrontEnd2023/Project-2/src/sass/style.sass */
+/* line 32, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/style.sass */
 .container {
   max-width: 1140px;
   margin: 0 auto;
 }
 
-/* line 36, C:/Dev/FrontEnd2023/Project-2/src/sass/style.sass */
+/* line 36, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/style.sass */
 .main-section {
   position: relative;
   min-height: 800px;
@@ -490,7 +490,7 @@ html {
   overflow: hidden;
 }
 
-/* line 42, C:/Dev/FrontEnd2023/Project-2/src/sass/style.sass */
+/* line 42, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/style.sass */
 .main-section__nav-container {
   height: 69px;
   display: flex;
@@ -499,67 +499,67 @@ html {
   align-items: center;
 }
 
-/* line 48, C:/Dev/FrontEnd2023/Project-2/src/sass/style.sass */
+/* line 48, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/style.sass */
 .main-section__logo {
   width: 134px;
   height: 69px;
 }
 
-/* line 51, C:/Dev/FrontEnd2023/Project-2/src/sass/style.sass */
+/* line 51, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/style.sass */
 .main-section__content-container {
   display: flex;
   position: relative;
 }
 
-/* line 54, C:/Dev/FrontEnd2023/Project-2/src/sass/style.sass */
+/* line 54, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/style.sass */
 .main-section__first-ellipse {
   position: absolute;
   right: 80px;
   top: 123px;
 }
 
-/* line 58, C:/Dev/FrontEnd2023/Project-2/src/sass/style.sass */
+/* line 58, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/style.sass */
 .main-section__second-ellipse {
   position: absolute;
   right: -120px;
   top: 650px;
 }
 
-/* line 64, C:/Dev/FrontEnd2023/Project-2/src/sass/style.sass */
+/* line 64, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/style.sass */
 .nav-menu__list {
   display: flex;
   flex-direction: row;
 }
 
-/* line 67, C:/Dev/FrontEnd2023/Project-2/src/sass/style.sass */
+/* line 67, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/style.sass */
 .nav-menu__item {
   font-size: 18px;
   margin-right: 64px;
 }
 
-/* line 70, C:/Dev/FrontEnd2023/Project-2/src/sass/style.sass */
+/* line 70, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/style.sass */
 .nav-menu__item:last-child {
   margin-right: 0px;
 }
 
-/* line 72, C:/Dev/FrontEnd2023/Project-2/src/sass/style.sass */
+/* line 72, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/style.sass */
 .nav-menu__item a {
   text-decoration: dashed;
   color: black;
 }
 
-/* line 76, C:/Dev/FrontEnd2023/Project-2/src/sass/style.sass */
+/* line 76, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/style.sass */
 .left-wrapper {
   position: relative;
 }
 
-/* line 78, C:/Dev/FrontEnd2023/Project-2/src/sass/style.sass */
+/* line 78, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/style.sass */
 .left-wrapper img {
   position: relative;
   z-index: 5;
 }
 
-/* line 81, C:/Dev/FrontEnd2023/Project-2/src/sass/style.sass */
+/* line 81, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/style.sass */
 .left-wrapper__rectangle-blue {
   position: absolute;
   top: 150px;
@@ -573,7 +573,7 @@ html {
   z-index: 2;
 }
 
-/* line 92, C:/Dev/FrontEnd2023/Project-2/src/sass/style.sass */
+/* line 92, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/style.sass */
 .left-wrapper__rectangle-orange {
   position: absolute;
   top: 160px;
@@ -587,7 +587,7 @@ html {
   z-index: 3;
 }
 
-/* line 103, C:/Dev/FrontEnd2023/Project-2/src/sass/style.sass */
+/* line 103, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/style.sass */
 .left-wrapper__rectangle-grey {
   position: absolute;
   top: 190px;
@@ -601,7 +601,7 @@ html {
   z-index: 1;
 }
 
-/* line 115, C:/Dev/FrontEnd2023/Project-2/src/sass/style.sass */
+/* line 115, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/style.sass */
 .right-wrapper {
   width: 372px;
   position: absolute;
@@ -610,31 +610,31 @@ html {
   z-index: 5;
 }
 
-/* line 121, C:/Dev/FrontEnd2023/Project-2/src/sass/style.sass */
+/* line 121, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/style.sass */
 .right-wrapper__icons-box {
   margin-bottom: 1px;
   padding-left: 10px;
 }
 
-/* line 124, C:/Dev/FrontEnd2023/Project-2/src/sass/style.sass */
+/* line 124, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/style.sass */
 .right-wrapper__title {
   margin-bottom: 5px;
 }
 
-/* line 126, C:/Dev/FrontEnd2023/Project-2/src/sass/style.sass */
+/* line 126, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/style.sass */
 .right-wrapper__text {
   font-size: 16px;
   font-weight: 400;
   margin-bottom: 20px;
 }
 
-/* line 131, C:/Dev/FrontEnd2023/Project-2/src/sass/style.sass */
+/* line 131, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/style.sass */
 .icons {
   display: flex;
   gap: 17px;
 }
 
-/* line 134, C:/Dev/FrontEnd2023/Project-2/src/sass/style.sass */
+/* line 134, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/style.sass */
 .icons__item {
   display: flex;
   justify-content: center;
@@ -645,18 +645,18 @@ html {
   border-radius: 100px;
 }
 
-/* line 142, C:/Dev/FrontEnd2023/Project-2/src/sass/style.sass */
+/* line 142, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/style.sass */
 .icons__item i {
   font-size: 21px;
 }
 
-/* line 145, C:/Dev/FrontEnd2023/Project-2/src/sass/style.sass */
+/* line 145, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/style.sass */
 .title {
   font-size: 72px;
   position: relative;
 }
 
-/* line 148, C:/Dev/FrontEnd2023/Project-2/src/sass/style.sass */
+/* line 148, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/style.sass */
 .title__hr {
   position: absolute;
   width: 65px;
@@ -666,12 +666,12 @@ html {
   border-top: 1px solid black;
 }
 
-/* line 156, C:/Dev/FrontEnd2023/Project-2/src/sass/style.sass */
+/* line 156, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/style.sass */
 .buttons {
   display: inline-flex;
 }
 
-/* line 158, C:/Dev/FrontEnd2023/Project-2/src/sass/style.sass */
+/* line 158, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/style.sass */
 .buttons__main-btn {
   margin-right: 32px;
   width: 200px;
@@ -684,24 +684,24 @@ html {
   color: white;
 }
 
-/* line 168, C:/Dev/FrontEnd2023/Project-2/src/sass/style.sass */
+/* line 168, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/style.sass */
 .buttons__icon-btn {
   display: inline-flex;
   align-items: center;
 }
 
-/* line 171, C:/Dev/FrontEnd2023/Project-2/src/sass/style.sass */
+/* line 171, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/style.sass */
 .buttons__icon-btn img {
   margin-right: 12px;
 }
 
-/* line 173, C:/Dev/FrontEnd2023/Project-2/src/sass/style.sass */
+/* line 173, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/style.sass */
 .buttons__text {
   font-size: 16px;
   font-weight: 300;
 }
 
-/* line 177, C:/Dev/FrontEnd2023/Project-2/src/sass/style.sass */
+/* line 177, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/style.sass */
 .ellipse {
   width: 194px;
   height: 194px;
@@ -712,13 +712,13 @@ html {
   align-items: center;
 }
 
-/* line 185, C:/Dev/FrontEnd2023/Project-2/src/sass/style.sass */
+/* line 185, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/style.sass */
 .ellipse_big {
   width: 282px;
   height: 282px;
 }
 
-/* line 188, C:/Dev/FrontEnd2023/Project-2/src/sass/style.sass */
+/* line 188, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/style.sass */
 .ellipse__subtract {
   width: 129.333px;
   height: 129.333px;
@@ -726,18 +726,18 @@ html {
   background: #F0F0F0;
 }
 
-/* line 193, C:/Dev/FrontEnd2023/Project-2/src/sass/style.sass */
+/* line 193, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/style.sass */
 .ellipse__subtract_big {
   width: 188px;
   height: 188px;
 }
 
-/* line 196, C:/Dev/FrontEnd2023/Project-2/src/sass/style.sass */
+/* line 196, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/style.sass */
 .ellipse__subtract_white {
   background: white;
 }
 
-/* line 199, C:/Dev/FrontEnd2023/Project-2/src/sass/style.sass */
+/* line 199, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/style.sass */
 .second-section {
   min-height: 700px;
   padding-top: 32px;
@@ -745,17 +745,17 @@ html {
   background: white;
 }
 
-/* line 204, C:/Dev/FrontEnd2023/Project-2/src/sass/style.sass */
+/* line 204, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/style.sass */
 .second-section__container {
   position: relative;
 }
 
-/* line 206, C:/Dev/FrontEnd2023/Project-2/src/sass/style.sass */
+/* line 206, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/style.sass */
 .second-section__title {
   margin-bottom: 40px;
 }
 
-/* line 208, C:/Dev/FrontEnd2023/Project-2/src/sass/style.sass */
+/* line 208, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/style.sass */
 .second-section__cards-box {
   position: relative;
   display: flex;
@@ -765,7 +765,7 @@ html {
   z-index: 1;
 }
 
-/* line 215, C:/Dev/FrontEnd2023/Project-2/src/sass/style.sass */
+/* line 215, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/style.sass */
 .second-section__icons-box {
   position: relative;
   display: flex;
@@ -773,21 +773,21 @@ html {
   z-index: 1;
 }
 
-/* line 220, C:/Dev/FrontEnd2023/Project-2/src/sass/style.sass */
+/* line 220, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/style.sass */
 .second-section__first-ellipse {
   position: absolute;
   top: 320px;
   left: -74px;
 }
 
-/* line 224, C:/Dev/FrontEnd2023/Project-2/src/sass/style.sass */
+/* line 224, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/style.sass */
 .second-section__second-ellipse {
   position: absolute;
   top: 20px;
   right: -54px;
 }
 
-/* line 229, C:/Dev/FrontEnd2023/Project-2/src/sass/style.sass */
+/* line 229, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/style.sass */
 .card-item {
   display: flex;
   align-items: flex-end;
@@ -799,12 +799,12 @@ html {
   filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
 }
 
-/* line 238, C:/Dev/FrontEnd2023/Project-2/src/sass/style.sass */
+/* line 238, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/style.sass */
 .card-item img {
   height: 335px;
 }
 
-/* line 240, C:/Dev/FrontEnd2023/Project-2/src/sass/style.sass */
+/* line 240, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/style.sass */
 .card-item p {
   position: absolute;
   width: 280px;
@@ -816,41 +816,41 @@ html {
   transform: rotate(90deg);
 }
 
-/* line 249, C:/Dev/FrontEnd2023/Project-2/src/sass/style.sass */
+/* line 249, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/style.sass */
 .card-item_orange {
   background-color: #F28B64;
 }
 
-/* line 251, C:/Dev/FrontEnd2023/Project-2/src/sass/style.sass */
+/* line 251, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/style.sass */
 .card-item_blue {
   background-color: #5290EA;
 }
 
-/* line 254, C:/Dev/FrontEnd2023/Project-2/src/sass/style.sass */
+/* line 254, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/style.sass */
 .icon-item {
   display: inline-flex;
   align-items: center;
 }
 
-/* line 257, C:/Dev/FrontEnd2023/Project-2/src/sass/style.sass */
+/* line 257, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/style.sass */
 .icon-item img {
   width: 80px;
   height: 80px;
   margin-right: 20px;
 }
 
-/* line 261, C:/Dev/FrontEnd2023/Project-2/src/sass/style.sass */
+/* line 261, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/style.sass */
 .icon-item p {
   font-size: 18px;
   font-weight: 400;
 }
 
-/* line 264, C:/Dev/FrontEnd2023/Project-2/src/sass/style.sass */
+/* line 264, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/style.sass */
 .icon-item p span {
   font-size: 48px;
 }
 
-/* line 267, C:/Dev/FrontEnd2023/Project-2/src/sass/style.sass */
+/* line 267, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/style.sass */
 .third-section {
   position: relative;
   min-height: 640px;
@@ -859,58 +859,58 @@ html {
   overflow: hidden;
 }
 
-/* line 273, C:/Dev/FrontEnd2023/Project-2/src/sass/style.sass */
+/* line 273, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/style.sass */
 .third-section__container {
   position: relative;
   display: flex;
   align-items: center;
 }
 
-/* line 277, C:/Dev/FrontEnd2023/Project-2/src/sass/style.sass */
+/* line 277, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/style.sass */
 .third-section__left-wrapper {
   padding-left: 167px;
   margin-right: 88px;
   z-index: 1;
 }
 
-/* line 281, C:/Dev/FrontEnd2023/Project-2/src/sass/style.sass */
+/* line 281, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/style.sass */
 .third-section__right-wrapper {
   z-index: 1;
 }
 
-/* line 283, C:/Dev/FrontEnd2023/Project-2/src/sass/style.sass */
+/* line 283, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/style.sass */
 .third-section__right-title {
   margin-bottom: 20px;
 }
 
-/* line 285, C:/Dev/FrontEnd2023/Project-2/src/sass/style.sass */
+/* line 285, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/style.sass */
 .third-section__text {
   margin-bottom: 30px;
   font-weight: 400;
 }
 
-/* line 288, C:/Dev/FrontEnd2023/Project-2/src/sass/style.sass */
+/* line 288, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/style.sass */
 .third-section__first-ellipse {
   position: absolute;
   top: 114px;
   left: 259px;
 }
 
-/* line 292, C:/Dev/FrontEnd2023/Project-2/src/sass/style.sass */
+/* line 292, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/style.sass */
 .third-section__second-ellipse {
   position: absolute;
   top: -130px;
   right: -120px;
 }
 
-/* line 296, C:/Dev/FrontEnd2023/Project-2/src/sass/style.sass */
+/* line 296, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/style.sass */
 .third-section__circle-subtract {
   position: absolute;
   top: 203px;
   left: 162px;
 }
 
-/* line 302, C:/Dev/FrontEnd2023/Project-2/src/sass/style.sass */
+/* line 302, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/style.sass */
 .footer__container {
   position: relative;
   min-height: 272px;
@@ -919,179 +919,179 @@ html {
   align-items: center;
 }
 
-/* line 308, C:/Dev/FrontEnd2023/Project-2/src/sass/style.sass */
+/* line 308, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/style.sass */
 .footer__img {
   position: absolute;
   left: -380px;
   bottom: 0px;
 }
 
-/* line 312, C:/Dev/FrontEnd2023/Project-2/src/sass/style.sass */
+/* line 312, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/style.sass */
 .footer__title {
   margin-bottom: 20px;
 }
 
 @media (max-width: 1199px) {
-  /* line 316, C:/Dev/FrontEnd2023/Project-2/src/sass/style.sass */
+  /* line 316, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/style.sass */
   .container {
     width: 960px;
   }
-  /* line 318, C:/Dev/FrontEnd2023/Project-2/src/sass/style.sass */
+  /* line 318, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/style.sass */
   .main-section {
     min-height: 690px;
   }
-  /* line 320, C:/Dev/FrontEnd2023/Project-2/src/sass/style.sass */
+  /* line 320, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/style.sass */
   .main-section__first-ellipse {
     right: 10px;
   }
-  /* line 322, C:/Dev/FrontEnd2023/Project-2/src/sass/style.sass */
+  /* line 322, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/style.sass */
   .main-section__second-ellipse {
     top: 580px;
   }
-  /* line 325, C:/Dev/FrontEnd2023/Project-2/src/sass/style.sass */
+  /* line 325, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/style.sass */
   .left-wrapper img {
     width: 750px;
   }
-  /* line 327, C:/Dev/FrontEnd2023/Project-2/src/sass/style.sass */
+  /* line 327, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/style.sass */
   .left-wrapper__rectangle-blue {
     width: 500px;
     height: 200px;
   }
-  /* line 330, C:/Dev/FrontEnd2023/Project-2/src/sass/style.sass */
+  /* line 330, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/style.sass */
   .left-wrapper__rectangle-orange {
     width: 550px;
     height: 200px;
   }
-  /* line 333, C:/Dev/FrontEnd2023/Project-2/src/sass/style.sass */
+  /* line 333, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/style.sass */
   .left-wrapper__rectangle-grey {
     width: 500px;
     height: 200px;
   }
-  /* line 336, C:/Dev/FrontEnd2023/Project-2/src/sass/style.sass */
+  /* line 336, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/style.sass */
   .right-wrapper {
     right: 20px;
   }
-  /* line 338, C:/Dev/FrontEnd2023/Project-2/src/sass/style.sass */
+  /* line 338, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/style.sass */
   .second-section {
     min-height: 600px;
   }
-  /* line 340, C:/Dev/FrontEnd2023/Project-2/src/sass/style.sass */
+  /* line 340, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/style.sass */
   .card-item {
     width: 300px;
     height: 300px;
   }
-  /* line 343, C:/Dev/FrontEnd2023/Project-2/src/sass/style.sass */
+  /* line 343, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/style.sass */
   .card-item img {
     height: 270px;
   }
-  /* line 345, C:/Dev/FrontEnd2023/Project-2/src/sass/style.sass */
+  /* line 345, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/style.sass */
   .card-item p {
     top: 106px;
     left: 75px;
     font-size: 30px;
   }
-  /* line 349, C:/Dev/FrontEnd2023/Project-2/src/sass/style.sass */
+  /* line 349, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/style.sass */
   .third-section {
     min-height: 560px;
   }
-  /* line 351, C:/Dev/FrontEnd2023/Project-2/src/sass/style.sass */
+  /* line 351, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/style.sass */
   .third-section__left-wrapper {
     padding-left: 60px;
     margin-right: 50px;
   }
-  /* line 354, C:/Dev/FrontEnd2023/Project-2/src/sass/style.sass */
+  /* line 354, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/style.sass */
   .third-section__first-ellipse {
     left: 147px;
   }
-  /* line 356, C:/Dev/FrontEnd2023/Project-2/src/sass/style.sass */
+  /* line 356, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/style.sass */
   .third-section__circle-subtract {
     left: 62px;
   }
 }
 
 @media (max-width: 991px) {
-  /* line 361, C:/Dev/FrontEnd2023/Project-2/src/sass/style.sass */
+  /* line 361, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/style.sass */
   .container {
     width: 720px;
   }
-  /* line 363, C:/Dev/FrontEnd2023/Project-2/src/sass/style.sass */
+  /* line 363, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/style.sass */
   .main-section {
     min-height: 530px;
   }
-  /* line 365, C:/Dev/FrontEnd2023/Project-2/src/sass/style.sass */
+  /* line 365, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/style.sass */
   .main-section__first-ellipse {
     right: -40px;
     top: 0px;
   }
-  /* line 368, C:/Dev/FrontEnd2023/Project-2/src/sass/style.sass */
+  /* line 368, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/style.sass */
   .main-section__second-ellipse {
     top: 430px;
   }
-  /* line 370, C:/Dev/FrontEnd2023/Project-2/src/sass/style.sass */
+  /* line 370, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/style.sass */
   .title {
     font-size: 48px;
   }
-  /* line 372, C:/Dev/FrontEnd2023/Project-2/src/sass/style.sass */
+  /* line 372, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/style.sass */
   .title__hr {
     top: 48px;
     width: 40px;
   }
-  /* line 376, C:/Dev/FrontEnd2023/Project-2/src/sass/style.sass */
+  /* line 376, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/style.sass */
   .left-wrapper img {
     width: 550px;
   }
-  /* line 378, C:/Dev/FrontEnd2023/Project-2/src/sass/style.sass */
+  /* line 378, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/style.sass */
   .left-wrapper__rectangle-blue {
     width: 400px;
     height: 150px;
   }
-  /* line 381, C:/Dev/FrontEnd2023/Project-2/src/sass/style.sass */
+  /* line 381, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/style.sass */
   .left-wrapper__rectangle-orange {
     width: 450px;
     height: 150px;
   }
-  /* line 384, C:/Dev/FrontEnd2023/Project-2/src/sass/style.sass */
+  /* line 384, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/style.sass */
   .left-wrapper__rectangle-grey {
     width: 400px;
     height: 150px;
   }
-  /* line 387, C:/Dev/FrontEnd2023/Project-2/src/sass/style.sass */
+  /* line 387, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/style.sass */
   .right-wrapper {
     top: 30px;
     right: 0px;
     width: 250px;
   }
-  /* line 391, C:/Dev/FrontEnd2023/Project-2/src/sass/style.sass */
+  /* line 391, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/style.sass */
   .right-wrapper__text {
     margin-bottom: 20px;
   }
-  /* line 393, C:/Dev/FrontEnd2023/Project-2/src/sass/style.sass */
+  /* line 393, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/style.sass */
   .buttons {
     display: flex;
     flex-wrap: wrap;
     justify-content: flex-end;
     gap: 10px;
   }
-  /* line 398, C:/Dev/FrontEnd2023/Project-2/src/sass/style.sass */
+  /* line 398, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/style.sass */
   .buttons__main-btn {
     font-size: 16px;
     width: 180px;
     margin-right: 0px;
   }
-  /* line 402, C:/Dev/FrontEnd2023/Project-2/src/sass/style.sass */
+  /* line 402, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/style.sass */
   .buttons__text {
     font-size: 14px;
   }
-  /* line 404, C:/Dev/FrontEnd2023/Project-2/src/sass/style.sass */
+  /* line 404, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/style.sass */
   .card-item {
     width: 230px;
     height: 230px;
   }
-  /* line 407, C:/Dev/FrontEnd2023/Project-2/src/sass/style.sass */
+  /* line 407, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/style.sass */
   .card-item img {
     height: 210px;
   }
-  /* line 409, C:/Dev/FrontEnd2023/Project-2/src/sass/style.sass */
+  /* line 409, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/style.sass */
   .card-item p {
     top: 84px;
     left: 60px;
@@ -1099,47 +1099,116 @@ html {
     width: 220px;
     height: 62px;
   }
-  /* line 415, C:/Dev/FrontEnd2023/Project-2/src/sass/style.sass */
+  /* line 415, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/style.sass */
   .second-section {
     min-height: 590px;
   }
-  /* line 417, C:/Dev/FrontEnd2023/Project-2/src/sass/style.sass */
+  /* line 417, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/style.sass */
   .second-section__icons-box {
     flex-wrap: wrap;
     justify-content: space-between;
   }
-  /* line 420, C:/Dev/FrontEnd2023/Project-2/src/sass/style.sass */
+  /* line 420, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/style.sass */
   .second-section__first-ellipse {
     top: 350px;
     left: 0px;
   }
-  /* line 423, C:/Dev/FrontEnd2023/Project-2/src/sass/style.sass */
+  /* line 423, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/style.sass */
   .icon-item {
     width: 290px;
   }
-  /* line 426, C:/Dev/FrontEnd2023/Project-2/src/sass/style.sass */
+  /* line 426, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/style.sass */
   .icon-item:nth-child(2) {
     margin-right: 130px;
   }
-  /* line 428, C:/Dev/FrontEnd2023/Project-2/src/sass/style.sass */
+  /* line 428, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/style.sass */
   .icon-item:nth-child(3) {
     margin-left: 130px;
   }
-  /* line 430, C:/Dev/FrontEnd2023/Project-2/src/sass/style.sass */
+  /* line 430, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/style.sass */
   .icon-item:nth-child(4) {
     justify-content: flex-end;
+  }
+  /* line 432, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/style.sass */
+  .footer__container {
+    min-height: 210px;
   }
 }
 
 @media (max-width: 767px) {
-  /* line 440, C:/Dev/FrontEnd2023/Project-2/src/sass/style.sass */
+  /* line 436, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/style.sass */
   .container {
     width: 540px;
+  }
+  /* line 438, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/style.sass */
+  .hamburger {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 30px;
+    right: 30px;
+    z-index: 30;
+  }
+  /* line 445, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/style.sass */
+  .hamburger span {
+    height: 2px;
+    width: 100%;
+    display: block;
+    background: black;
+    margin-bottom: 4px;
+    transition: 0.5s all;
+  }
+  /* line 452, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/style.sass */
+  .hamburger span:last-child {
+    margin-bottom: 0px;
+  }
+  /* line 455, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/style.sass */
+  .hamburger_active span {
+    margin-bottom: -2px;
+  }
+  /* line 457, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/style.sass */
+  .hamburger_active span:nth-child(1) {
+    transform: translateY(5px) rotate(45deg);
+  }
+  /* line 459, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/style.sass */
+  .hamburger_active span:nth-child(2) {
+    display: none;
+  }
+  /* line 461, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/style.sass */
+  .hamburger_active span:nth-child(3) {
+    transform: translateY(5px) rotate(-45deg);
+  }
+  /* line 463, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/style.sass */
+  .nav-menu {
+    position: fixed;
+    top: 0px;
+    right: -100%;
+    height: 100vh;
+    width: 50%;
+    background: #5290EA;
+    z-index: 20;
+    transition: 0.6s all;
+  }
+  /* line 472, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/style.sass */
+  .nav-menu_active {
+    right: 0px;
+  }
+  /* line 474, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/style.sass */
+  .nav-menu__list {
+    height: 100%;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+  }
+  /* line 479, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/style.sass */
+  .nav-menu__item {
+    margin-right: 0px;
+    font-size: 20px;
   }
 }
 
 @media (max-width: 575px) {
-  /* line 444, C:/Dev/FrontEnd2023/Project-2/src/sass/style.sass */
+  /* line 494, C:/Dev/Udemy/FrontEnd2023/Project-2/FrontEndGuitar/src/sass/style.sass */
   .container {
     width: 100%;
   }
