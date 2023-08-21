@@ -18,5 +18,15 @@ window.addEventListener('DOMContentLoaded', () => {
 
         });
     }
+});
 
+$(document).ready(function () {
+    $(".content-link").on("click", function (e) {
+        var anchor = $(this);
+        $('html, body').stop().animate({
+            scrollTop: $(anchor.attr('href')).offset().top
+        }, 500);
+        e.preventDefault();
+        return false;
+    });
 });
